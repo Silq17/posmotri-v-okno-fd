@@ -115,6 +115,7 @@ ol {
 }
 
 .search-form__textfield {
+  font-family: 'Fira Sans Condensed';
   width: 100%;
   border: none;
   border-top: 1px solid #fff;
@@ -255,7 +256,6 @@ ol {
   flex-direction: column;
   flex-grow: 1;
   gap: 6px;
-  min-height: 103px;
   overflow: hidden;
 }
 
